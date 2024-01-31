@@ -19,7 +19,7 @@ In this first project of the 42 path, you learn to create your first library, ma
 - Makefile with no re-link: another important advantage in using makefiles is that when the project is made up of many files and you have recently made changes to only one or some files in the project, you can set your makefile in such a way that only the object files related to the modified source files (.c files) are recreated. Object files are the files with the .o extension necessary to carry out the linking process (linking is the process through which all our project object files are collected for the creation of our executable or library). This setting for the makefile is very useful and much more efficient in terms of compilation times, especially in cases of large projects with many files, since in this way you avoid needlessly recompiling the unchanged files, significantly reducing the time for the re-creation of the new updated executable.
 
 
-<h1>What you learn in this project</h1>
+<h1>What you learn</h1>
 
 - Creation of a makefile
 - Creation of library functions (string manipulation, operations on memory, writing data on files, linked lists)
