@@ -9,8 +9,12 @@ In this first project of the 42 path, you learn to create for the first time a l
 - The reason is actually simple: everything is done for educational purposes, it allows us to immediately develop problem solving skills and we are immediately accustomed to the idea of learning to create our own functions and then customize the tools to our liking that we build and have on hand for future projects. (at 42 you will reuse and expand the functionality of your libft over time)
 
 <h1>Makefile: what is it for?</h1>
+
 - The makefile is a file that contains a series of instructions and directives created for the purpose of speeding up and optimizing the process of compiling our project files.
-For example, consider the case in which our project contains hundreds of files. You could easily rewrite the compilation instructions for each individual file by hand every time, but this would make the process very time consuming and tedious and time-consuming. This is one of the fundamental reasons why a makefile is used. With each change to the code I basically call up my makefile with the 'make' command and automatically my project files are compiled and our executable program is created (or in the case of libft an executable is not created, but rather a library that it's different). There are also numerous other advantages in using makefiles (some of which I am not yet aware of) which I do not intend to delve into now because it would be too long to explain and perhaps not understandable for beginners.
+
+- For example, consider the case in which our project contains hundreds of files. You could easily rewrite the compilation instructions for each individual file by hand every time, but this would make the process very time consuming and tedious.
+
+- This is one of the fundamental reasons why a makefile is used. With each change to the code I basically call up my makefile with the 'make' command and automatically my project files are compiled and our executable program is created (or in the case of libft an executable is not created, but rather a library that it's different). There are also numerous other advantages in using makefiles (some of which I am not yet aware of) which I do not intend to delve into now because it would be too long to explain and perhaps not understandable for beginners.
 
 
 <h1>Knowledge that is learned and developed in this project</h1>
