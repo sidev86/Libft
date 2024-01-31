@@ -17,7 +17,7 @@ In this first project of the 42 path, you learn to create for the first time a l
 - This is one of the fundamental reasons why a makefile is used. With each change to the code, I basically call up my makefile with the 'make' command and automatically my project files are compiled and our executable program is created (or in the case of libft an executable is not created, but rather a library a file with the .a extension, that will contain all the file functions within a single file). There are also numerous other important advantages in using makefiles (some of which I am not yet aware of) which I do not intend to delve into now because it would be too long to explain and perhaps not initially understandable.
 
 
-<h1>Knowledge that is learned and developed in this project</h1>
+<h1>What you learn</h1>
 
 - Creation of a makefile
 - Creation of library functions
