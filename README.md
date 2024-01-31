@@ -23,3 +23,7 @@ In this first project of the 42 path, you learn to create for the first time a l
 - Creation of library functions
 - Usage of pointers (the most difficult topic in C imo, which requires time and practice in the code to be understood better)
 - Creation and manipulation of lists (Bonus part)
+
+<h1>Useful resources</h1>
+
+- <h1>Pointers : <a href="https://www.youtube.com/watch?v=NtfbWkxJTHw"</a></h1>
