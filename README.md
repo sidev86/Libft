@@ -4,7 +4,7 @@ In this first project of the 42 path, you learn to create for the first time a l
 
 - A library is a sort of “toolbox” for programmers. In the specific case of programming, our tools are represented by the functions that are created within our library. Each function, generally carries out a series of operations that are performed in order to solve a certain task (example: a function that reverses the characters of a word... HELLO -> OLLEH)
 
-- In this project, the objective is to recreate a series of very useful and recurring functions for the creation of many programs. These functions are also found in some typical, widely used standard libraries, such as the 'string' or 'stdlib' library. A spontaneous question arises here. What's the point of recreating a library of already existing functions, when you could simply use the ones already made?
+- In this project, the objective is to recreate a series of very useful and recurring functions for the creation of many programs. These functions that you must implement for the project are also found in some typical, widely used standard libraries, such as the 'string' or 'stdlib' library. A spontaneous question arises here. What's the point of recreating a library of already existing functions, when you could simply use the ones already made?
 
 - The reason is actually simple: everything is done for educational purposes, it allows us to immediately develop problem solving skills, and we are immediately accustomed to the idea of learning to create our own functions, and then customize the tools that we build to our needs and preferences and have these tools at hand for future projects. (at 42, you will reuse and expand the functionality of your libft over time)
 
