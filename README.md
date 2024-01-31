@@ -26,4 +26,4 @@ In this first project of the 42 path, you learn to create for the first time a l
 
 <h1>Useful resources</h1>
 
-- <h1>Pointers : <a href="https://www.youtube.com/watch?v=NtfbWkxJTHw"</a></h1>
+- Pointers : <a href="https://www.youtube.com/watch?v=NtfbWkxJTHw"</a>
