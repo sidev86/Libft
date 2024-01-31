@@ -22,8 +22,8 @@ In this first project of the 42 path, you learn to create your first library, ma
 <h1>What you learn in this project</h1>
 
 - Creation of a makefile
-- Creation of library functions
-- Usage of pointers (the most difficult topic in C imo, which requires time and practice in the code to be understood better)
+- Creation of library functions (string manipulation, operations on memory, lists, writing data on files)
+- Improve the usage of pointers (the most difficult topic in C imo, which requires time and practice in the code to be understood better)
 - Creation and manipulation of lists (Bonus part)
 
 <h1>Useful resources</h1>
