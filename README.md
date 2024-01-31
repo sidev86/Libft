@@ -1,4 +1,4 @@
-In this first project of the 42 path, you learn to create your first library made of useful functions for subsequent 42 projects.
+In this first project of the 42 path, you learn to create your first library, made of useful functions for subsequent 42 projects.
 
 <h1>What is a library?</h1>
 
