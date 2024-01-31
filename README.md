@@ -14,6 +14,7 @@ For example, consider the case in which our project contains hundreds of files. 
 
 
 <h1>Knowledge that is learned and developed in this project</h1>
+
 - Creation of a makefile
 - Creation of library functions
 - Ability to use pointers (the most difficult topic in C in imo which requires time and practice in the code to be understood better)
