@@ -4,7 +4,7 @@ My first library written in C.
 To create this library we had to redevelop typical functions of the <strong><em>libc</em></strong> library.
 <br>The functions implemented in the library are the following:
 
-<h1>Character Functions</h1>
+<h2>Character Functions</h2>
 
 <table border="1">
   <tr>
@@ -46,7 +46,7 @@ To create this library we had to redevelop typical functions of the <strong><em>
 </table>
 
 
-<h1>Skills learned</h1>
+<h2>Skills learned</h2>
 
 - Creation of a makefile
 - Re-creation of libc library functions (string manipulation, operations on memory, writing data on files)
