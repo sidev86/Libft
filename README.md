@@ -5,6 +5,24 @@ To create this library we had to redevelop typical functions of the <strong><em>
 
 <h1>Functions</h1>
 
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>isalpha</td>
+    <td>Checks if the character c is an alphabetic letter</td>
+  </tr>
+  <tr>
+    <td>Luigi</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Anna</td>
+    <td>25</td>
+  </tr>
+</table>
 
 
 
