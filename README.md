@@ -3,7 +3,7 @@
 My first library written in C.
 To create this library we had to redevelop typical functions of the <strong><em>libc</em></strong> library
 
-<h1>Functions</h1>
+<h1>Character Functions</h1>
 
 <table border="1">
   <tr>
@@ -32,7 +32,7 @@ To create this library we had to redevelop typical functions of the <strong><em>
   </tr>
    <tr>
     <td>toupper</td>
-    <td>Converts the character to its uppercase equivalent if it is a lowercase letter. If c is not a lowercase letter, it returns c unchanged.</td>
+    <td>Converts the character to its uppercase equivalent if it is a lowercase letter.<br> If c is not a lowercase letter, it returns c unchanged.</td>
   </tr>
    <tr>
     <td>isalnum</td>
