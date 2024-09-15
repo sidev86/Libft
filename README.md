@@ -32,42 +32,17 @@ To create this library we had to redevelop typical functions of the <strong><em>
   </tr>
    <tr>
     <td>toupper</td>
-    <td>Converts the character to its uppercase equivalent if it is a lowercase letter.<br> If c is not a lowercase letter, it returns c unchanged.</td>
+    <td>Converts the character to its uppercase equivalent if it's a lowercase letter.<br> If is not a lowercase letter, it returns unchanged.</td>
   </tr>
    <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
+    <td>tolower</td>
+    <td>Converts the character to its lowercase equivalent if it's an uppercase letter.<br> If is not an uppercase letter, it returns unchanged.</td>
   </tr>
    <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>isalnum</td>
-    <td>Checks if the character c is an alphanumeric character</td>
+    <td>strlen</td>
+    <td>Returns the length of the string, excluding the null terminator.</td>
   </tr>
 </table>
-
 
 
 <h1>Skills learned</h1>
