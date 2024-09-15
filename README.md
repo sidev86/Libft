@@ -2,7 +2,7 @@
 
 <h2> Brief </h2>
 My first library written in C.
-To create this library we had to redevelop typical functions of the <b>libc</b> library
+To create this library we had to redevelop typical functions of the <strong><em>libc</em></strong> library
 
 <h1>What is a library?</h1>
 
