@@ -52,4 +52,6 @@ To create this library we had to redevelop typical functions of the <strong><em>
 - Re-creation of libc library functions (string manipulation, operations on memory, writing data on files)
 - Usage of pointers
 
+Readme WIP ....
+
 
