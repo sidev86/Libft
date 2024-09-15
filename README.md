@@ -2,7 +2,7 @@
 
 My first library written in C.
 To create this library we had to redevelop typical functions of the <strong><em>libc</em></strong> library.
-The functions implemented in the library are the following:
+<br>The functions implemented in the library are the following:
 
 <h1>Character Functions</h1>
 
