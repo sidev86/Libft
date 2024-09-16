@@ -71,6 +71,40 @@ To create this library we had to redevelop typical functions of the <strong><em>
 
 </table>
 
+<h2>Memory Functions</h2>
+
+<table border="1">
+  <tr>
+    <th>Function</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>memset</td>
+    <td>Fill a contiguous block of memory with a specific value.</td>
+  </tr>
+  <tr>
+    <td>bzero</td>
+    <td>Fills the first n bytes of the object pointed to with zeros</td>
+  </tr>
+  <tr>
+    <td>memcpy</td>
+    <td>Copy a block of memory from one location to another. Does not handle overlapping regions</td>
+  </tr>
+   <tr>
+    <td>memmove</td>
+    <td>Copy a block of memory from one location to another. Handles overlapping memory regions safely.</td>
+  </tr>
+   <tr>
+    <td>memchr</td>
+    <td>Searches for the first occurrence of byte character in the first n bytes of the memory area pointed to. Returns a pointer to the byte found, or NULL if the character is not found.
+</td>
+  </tr>
+   <tr>
+    <td>memcmp</td>
+    <td>Compares the first n bytes of the memory areas s1 and s2. Returns an integer less than, equal to, or greater than zero if s1 is less than, equal to, or greater than s2.</td>
+  </tr>
+</table>
+
 
 <h2>Skills learned</h2>
 
