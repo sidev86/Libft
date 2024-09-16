@@ -49,19 +49,19 @@ To create this library we had to redevelop typical functions of the <strong><em>
     <th>Description</th>
   </tr>
   <tr>
-    <td>isalpha</td>
+    <td>strlen(const char *s)</td>
     <td>Checks if the character is an alphabetic letter.</td>
   </tr>
   <tr>
-    <td>isdigit</td>
+    <td>strchr(const char *s, int c)</td>
     <td>Checks if the character is a decimal digit.</td>
   </tr>
   <tr>
-    <td>isalnum</td>
+    <td>strrchr(const char *s, int c)</td>
     <td>Checks if the character is an alphanumeric character</td>
   </tr>
    <tr>
-    <td>isascii</td>
+    <td>strncmp(const char *s1, const char *s2, size_t n)</td>
     <td>Checks if the character is an ASCII character</td>
   </tr>
    <tr>
