@@ -12,56 +12,19 @@ To create this library we had to redevelop typical functions of the <strong><em>
     <th>Description</th>
   </tr>
   <tr>
-    <td>isalpha(int c)</td>
+    <td>isalpha</td>
     <td>Checks if the character is an alphabetic letter.</td>
   </tr>
   <tr>
-    <td>isdigit(int c)</td>
+    <td>isdigit</td>
     <td>Checks if the character is a decimal digit.</td>
   </tr>
   <tr>
-    <td>isalnum(int c)</td>
+    <td>isalnum</td>
     <td>Checks if the character is an alphanumeric character</td>
   </tr>
    <tr>
-    <td>isascii(int c)</td>
-    <td>Checks if the character is an ASCII character</td>
-  </tr>
-   <tr>
-    <td>isprint(int c)</td>
-    <td>Checks if the character is a printable character</td>
-  </tr>
-   <tr>
-    <td>toupper(int c)</td>
-    <td>Converts the character to its uppercase equivalent if it's a lowercase letter.<br> If is not a lowercase letter, it returns unchanged.</td>
-  </tr>
-   <tr>
-    <td>tolower(int c)</td>
-    <td>Converts the character to its lowercase equivalent if it's an uppercase letter.<br> If is not an uppercase letter, it returns unchanged.</td>
-  </tr>
-</table>
-
-<h2>String Functions</h2>
-
-<table border="1">
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>strlen(const char *s)</td>
-    <td>Checks if the character is an alphabetic letter.</td>
-  </tr>
-  <tr>
-    <td>strchr(const char *s, int c)</td>
-    <td>Checks if the character is a decimal digit.</td>
-  </tr>
-  <tr>
-    <td>strrchr(const char *s, int c)</td>
-    <td>Checks if the character is an alphanumeric character</td>
-  </tr>
-   <tr>
-    <td>strncmp(const char *s1, const char *s2, size_t n)</td>
+    <td>isascii</td>
     <td>Checks if the character is an ASCII character</td>
   </tr>
    <tr>
@@ -76,6 +39,36 @@ To create this library we had to redevelop typical functions of the <strong><em>
     <td>tolower</td>
     <td>Converts the character to its lowercase equivalent if it's an uppercase letter.<br> If is not an uppercase letter, it returns unchanged.</td>
   </tr>
+</table>
+
+<h2>String Functions</h2>
+
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>strlen</td>
+    <td>Returns the length of the string s, excluding the null terminator.</td>
+  </tr>
+  <tr>
+    <td>strchr</td>
+    <td>Searches for the first occurrence of the character in the string. Returns a pointer to the first occurrence of character, or NULL if character is not found.</td>
+  </tr>
+  <tr>
+    <td>strrchr</td>
+    <td>Searches for the last occurrence of the character in the string. Returns a pointer to the last occurrence of character, or NULL if character is not found.</td>
+  </tr>
+   <tr>
+    <td>strncmp</td>
+    <td>Compares up to n characters of the string s1 and string s2. Returns an integer less than, equal to, or greater than zero if string s1 is less than, equal to, or greater than string s2.</td>
+  </tr>
+   <tr>
+    <td>strnstr</td>
+    <td>Locates the first occurrence of the null-terminated string s2 in the string s1, where not more than n characters are searched. Characters that appear after a `\0' character are not searched.</td>
+  </tr>
+
 </table>
 
 
