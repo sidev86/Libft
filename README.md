@@ -50,7 +50,7 @@ To create this library we had to redevelop typical functions of the <strong><em>
   </tr>
   <tr>
     <td>strlen</td>
-    <td>Returns the length of the string s, excluding the NULL terminator (\0).</td>
+    <td>Returns the length of the string s, excluding the NULL terminator '\0'.</td>
   </tr>
   <tr>
     <td>strchr</td>
