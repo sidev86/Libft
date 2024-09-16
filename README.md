@@ -84,11 +84,11 @@ To create this library we had to redevelop typical functions of the <strong><em>
   </tr>
   <tr>
     <td>bzero</td>
-    <td>Fills the first n bytes of the object pointed to with zeros</td>
+    <td>Fills the first n bytes of the object pointed to with zeros.</td>
   </tr>
   <tr>
     <td>memcpy</td>
-    <td>Copy a block of memory from one location to another. Does not handle overlapping regions</td>
+    <td>Copy a block of memory from one location to another. Does not handle overlapping regions.</td>
   </tr>
    <tr>
     <td>memmove</td>
