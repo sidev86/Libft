@@ -8,7 +8,7 @@ To create this library we had to redevelop typical functions of the <strong><em>
 
 <table border="1">
   <tr>
-    <th>Function</th>
+    <th>Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -21,15 +21,15 @@ To create this library we had to redevelop typical functions of the <strong><em>
   </tr>
   <tr>
     <td>isalnum</td>
-    <td>Checks if the character is an alphanumeric character</td>
+    <td>Checks if the character is an alphanumeric character.</td>
   </tr>
    <tr>
     <td>isascii</td>
-    <td>Checks if the character is an ASCII character</td>
+    <td>Checks if the character is an ASCII character.</td>
   </tr>
    <tr>
     <td>isprint</td>
-    <td>Checks if the character is a printable character</td>
+    <td>Checks if the character is a printable character.</td>
   </tr>
    <tr>
     <td>toupper</td>
@@ -75,7 +75,7 @@ To create this library we had to redevelop typical functions of the <strong><em>
 
 <table border="1">
   <tr>
-    <th>Function</th>
+    <th>Name</th>
     <th>Description</th>
   </tr>
   <tr>
