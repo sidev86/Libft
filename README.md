@@ -70,7 +70,10 @@ Some of these functions are a recreation of typical functions of the <strong><em
   </tr>
    <tr>
     <td>strlcpy</td>
-    <td> Copies up to a length ofcharacters from a source string to a destination string, null-terminating the result. Returns the length of the source string.</td>
+    <td> Copies up to a length of characters passed as input, from a source string to a destination string, null-terminating the result. Returns the length of the source string.</td>
+  </tr>
+   <td>strlcat</td>
+    <td> Appends up to a length of characters passed as input, from a source string to a destination string, null-terminating the result. Returns the total length of the string it tried to create.</td>
   </tr>
 
 </table>
@@ -108,6 +111,29 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <td>Compares the first n bytes of the memory areas s1 and s2. Returns an integer less than, equal to, or greater than zero if s1 is less than, equal to, or greater than s2.</td>
   </tr>
 </table>
+
+<h2>Other Functions</h2>
+
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>atoi</td>
+    <td>Converts a string to an integer. It stops converting when it encounters a non-numeric character and returns the integer value.</td>
+  </tr>
+  <tr>
+    <td>calloc</td>
+    <td>Allocates memory for an array of a a defined number of elements, each of which is size bytes long and automatically ensures that all bytes are initialized to zero. </td>
+  </tr>
+  <tr>
+    <td>strdup</td>
+    <td>Duplicates a string by allocating memory and copying the content of the original string into it.</td>
+  </tr>
+  
+</table>
+
 
 
 <h2>Skills learned</h2>
