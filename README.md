@@ -68,6 +68,10 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <td>strnstr</td>
     <td>Locates the first occurrence of the null-terminated string s2 in the string s1, where not more than n characters are searched. Characters that appear after a `\0' character are not searched.</td>
   </tr>
+   <tr>
+    <td>strlcpy</td>
+    <td> Copies up to a length ofcharacters from a source string to a destination string, null-terminating the result. Returns the length of the source string.</td>
+  </tr>
 
 </table>
 
