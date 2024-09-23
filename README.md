@@ -197,12 +197,4 @@ To use the library in your project just include the header file <code>"libft.h"<
 
 <code>gcc -o <strong><em>executable_name filename.c</em></strong> -L/path/to/lib -l:libft.a</code>
 
-<h2>Skills learned</h2>
-
-- Creation of a makefile
-- Re-creation of libc library functions (string manipulation, operations on memory, writing data on files)
-- Usage of pointers
-
-Readme WIP ....
-
 
