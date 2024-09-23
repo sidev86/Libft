@@ -188,7 +188,9 @@ Some of these functions are a recreation of typical functions of the <strong><em
 </table>
 
 
+<h2>Usage</h2>
 
+Just type <code>make</code> to generate the library file libft.a
 
 
 
