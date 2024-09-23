@@ -190,9 +190,12 @@ Some of these functions are a recreation of typical functions of the <strong><em
 
 <h2>Usage</h2>
 
-Just type <code>make</code> to generate the library file libft.a
+Type <code>make</code> to generate the library file <code>libft.a</code>. 
+To use the library in your project just include the header file <code>"libft.h"</code>
 
+<h2>Compilation instruction (gcc)</h2>
 
+<code>gcc -o <strong><em>executable_name filename.c</em></strong> -L/path/to/lib -l:libft.a
 
 <h2>Skills learned</h2>
 
