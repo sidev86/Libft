@@ -131,8 +131,64 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <td>strdup</td>
     <td>Duplicates a string by allocating memory and copying the content of the original string into it.</td>
   </tr>
+</table>
+
+
+<h2>Additional Functions (not in libc)</h2>
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>ft_substr</td>
+    <td>Allocates and returns a substring from a string given . The substring begins at start index and is of maximum size len</td>
+  </tr>
+  <tr>
+    <td>ft_strjoin</td>
+    <td>Allocates and returns a new string, which is the result of the concatenation of a string with another string. </td>
+  </tr>
+  <tr>
+    <td>ft_strtrim</td>
+    <td>Allocates and returns a copy of a string, with the characters specified in ’set’ removed from the beginning and the end of the string.</td>
+  </tr>
+  <tr>
+    <td>ft_split</td>
+    <td>Allocates and returns an array of strings obtained by splitting the string using a character as a delimiter. The array must end with a NULL pointer.</td>
+  </tr>
+   <tr>
+    <td>ft_itoa</td>
+    <td>Allocates and returns a string representing the integer received as an argument. Negative numbers must be handled.</td>
+  </tr>
+    <tr>
+    <td>ft_strmapi</td>
+    <td>Applies a function to each character of a string, and passing its index as first argument to create a new string resulting from successive applications of the funtion.</td>
+  </tr>
+    <tr>
+    <td>ft_striteri</td>
+    <td>Applies the function on each character of the string passed as argument, passing its index as first argument. Each character is passed by address to the function to be modified if necessary.</td>
+  </tr>
+  <tr>
+    <td>ft_putchar_fd</td>
+    <td>Outputs a character to the given file descriptor.</td>
+  </tr>
+    <tr>
+    <td>ft_putstr_fd</td>
+    <td>Outputs a string to the given file descriptor.</td>
+  </tr>
+    <tr>
+    <td>ft_putendl_fd</td>
+    <td>Outputs the string to the given file descriptor followed by a newline.</td>
+  </tr>
+   <tr>
+    <td>ft_putnbr_fd</td>
+    <td>Outputs the integer to the given file descriptor.</td>
+  </tr>
   
 </table>
+
+
+
 
 
 
