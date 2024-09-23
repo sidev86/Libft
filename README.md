@@ -195,7 +195,7 @@ To use the library in your project just include the header file <code>"libft.h"<
 
 <h2>Compilation instruction (gcc)</h2>
 
-<code>gcc -o <strong><em>executable_name filename.c</em></strong> -L/path/to/lib -l:libft.a
+<code>gcc -o <strong><em>executable_name filename.c</em></strong> -L/path/to/lib -l:libft.a</code>
 
 <h2>Skills learned</h2>
 
