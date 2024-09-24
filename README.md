@@ -1,5 +1,5 @@
 <h1> Libft </h1>
-<br>
+
 <h2>Description</h2>
 
 The scope of this project is making a library in C. This library is a collection of functions that will be useful for the next 42 projects.<br>
@@ -164,7 +164,7 @@ Some of these functions are a recreation of typical functions of the <strong><em
   </tr>
     <tr>
     <td>ft_strmapi</td>
-    <td>Applies a function to each character of a string, and passing its index as first argument to create a new string resulting from successive applications of the funtion.</td>
+    <td>Applies a function to each character of a string, and passing its index as first argument to create a new string resulting from successive applications of the function.</td>
   </tr>
     <tr>
     <td>ft_striteri</td>
