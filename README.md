@@ -14,31 +14,31 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <th>Description</th>
   </tr>
   <tr>
-    <td>isalpha</td>
+    <td>ft_isalpha</td>
     <td>Checks if the character is an alphabetic letter.</td>
   </tr>
   <tr>
-    <td>isdigit</td>
+    <td>ft_isdigit</td>
     <td>Checks if the character is a decimal digit.</td>
   </tr>
   <tr>
-    <td>isalnum</td>
+    <td>ft_isalnum</td>
     <td>Checks if the character is an alphanumeric character.</td>
   </tr>
    <tr>
-    <td>isascii</td>
+    <td>ft_isascii</td>
     <td>Checks if the character is an ASCII character.</td>
   </tr>
    <tr>
-    <td>isprint</td>
+    <td>ft_isprint</td>
     <td>Checks if the character is a printable character.</td>
   </tr>
    <tr>
-    <td>toupper</td>
+    <td>ft_toupper</td>
     <td>Converts the character to its uppercase equivalent if it's a lowercase letter.<br> If is not a lowercase letter, it returns unchanged.</td>
   </tr>
    <tr>
-    <td>tolower</td>
+    <td>ft_tolower</td>
     <td>Converts the character to its lowercase equivalent if it's an uppercase letter.<br> If is not an uppercase letter, it returns unchanged.</td>
   </tr>
 </table>
@@ -51,30 +51,30 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <th>Description</th>
   </tr>
   <tr>
-    <td>strlen</td>
+    <td>ft_strlen</td>
     <td>Returns the length of the string s, excluding the NULL terminator '\0'.</td>
   </tr>
   <tr>
-    <td>strchr</td>
+    <td>ft_strchr</td>
     <td>Searches for the first occurrence of the character in the string. Returns a pointer to the first occurrence of character, or NULL if character is not found.</td>
   </tr>
   <tr>
-    <td>strrchr</td>
+    <td>ft_strrchr</td>
     <td>Searches for the last occurrence of the character in the string. Returns a pointer to the last occurrence of character, or NULL if character is not found.</td>
   </tr>
    <tr>
-    <td>strncmp</td>
+    <td>ft_strncmp</td>
     <td>Compares up to n characters of the string s1 and string s2. Returns an integer less than, equal to, or greater than zero if string s1 is less than, equal to, or greater than string s2.</td>
   </tr>
    <tr>
-    <td>strnstr</td>
+    <td>ft_strnstr</td>
     <td>Locates the first occurrence of the null-terminated string s2 in the string s1, where not more than n characters are searched. Characters that appear after a `\0' character are not searched.</td>
   </tr>
    <tr>
-    <td>strlcpy</td>
+    <td>ft_strlcpy</td>
     <td> Copies up to a length of characters passed as input, from a source string to a destination string, null-terminating the result. Returns the length of the source string.</td>
   </tr>
-   <td>strlcat</td>
+   <td>ft_strlcat</td>
     <td> Appends up to a length of characters passed as input, from a source string to a destination string, null-terminating the result. Returns the total length of the string it tried to create.</td>
   </tr>
 
@@ -88,28 +88,28 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <th>Description</th>
   </tr>
   <tr>
-    <td>memset</td>
+    <td>ft_memset</td>
     <td>Fill a contiguous block of memory with a specific value.</td>
   </tr>
   <tr>
-    <td>bzero</td>
+    <td>ft_bzero</td>
     <td>Fills the first n bytes of the object pointed to with zeros.</td>
   </tr>
   <tr>
-    <td>memcpy</td>
+    <td>ft_memcpy</td>
     <td>Copy a block of memory from one location to another. Does not handle overlapping regions.</td>
   </tr>
    <tr>
-    <td>memmove</td>
+    <td>ft_memmove</td>
     <td>Copy a block of memory from one location to another. Handles overlapping memory regions safely.</td>
   </tr>
    <tr>
-    <td>memchr</td>
+    <td>ft_memchr</td>
     <td>Searches for the first occurrence of byte character in the first n bytes of the memory area pointed to. Returns a pointer to the byte found, or NULL if the character is not found.
 </td>
   </tr>
    <tr>
-    <td>memcmp</td>
+    <td>ft_memcmp</td>
     <td>Compares the first n bytes of the memory areas s1 and s2. Returns an integer less than, equal to, or greater than zero if s1 is less than, equal to, or greater than s2.</td>
   </tr>
 </table>
@@ -122,21 +122,21 @@ Some of these functions are a recreation of typical functions of the <strong><em
     <th>Description</th>
   </tr>
   <tr>
-    <td>atoi</td>
+    <td>ft_atoi</td>
     <td>Converts a string to an integer. It stops converting when it encounters a non-numeric character and returns the integer value.</td>
   </tr>
   <tr>
-    <td>calloc</td>
+    <td>ft_calloc</td>
     <td>Allocates memory for an array of a a defined number of elements, each of which is size bytes long and automatically ensures that all bytes are initialized to zero. </td>
   </tr>
   <tr>
-    <td>strdup</td>
+    <td>ft_strdup</td>
     <td>Duplicates a string by allocating memory and copying the content of the original string into it.</td>
   </tr>
 </table>
 
 
-<h2>Additional Functions (not in libc)</h2>
+<h2>Additional Functions</h2>
 <table border="1">
   <tr>
     <th>Name</th>
