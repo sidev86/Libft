@@ -5,7 +5,7 @@
 The scope of this project is making a library in C. This library is a collection of functions that will be useful for the next 42 projects.<br>
 Some of these functions are a recreation of typical functions of the <strong><em>libc</em></strong> library, others are either not in <strong><em>libc</em></strong> or part of it but in a different way. 
 <br>The functions implemented in the library are the following:
-<br>
+<br><br>
 <h2>Character Functions</h2>
 
 <table border="1">
