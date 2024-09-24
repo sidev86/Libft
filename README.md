@@ -1,5 +1,5 @@
 <h1> Libft </h1>
-
+<br>
 <h2>Description</h2>
 
 The scope of this project is making a library in C. This library is a collection of functions that will be useful for the next 42 projects.<br>
